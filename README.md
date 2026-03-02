@@ -8,7 +8,6 @@ Start bro!!
 
 HI
 
-
 Hi Sir
 
 
@@ -17,4 +16,3 @@ Hi Sir
 You bro
 
 Hi Babby
-Good bro
